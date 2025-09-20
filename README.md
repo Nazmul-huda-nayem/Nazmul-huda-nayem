@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Nazmul Huda Banner](https://raw.githubusercontent.com/nazmulhuda/nazmulhuda/main/banner.gif)
+![Nazmul Huda Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Nazmul%20Huda%20🚀&fontSize=40&fontColor=fff&animation=fadeIn)
 
 # 👋 Hi, I'm Nazmul Huda  
 
