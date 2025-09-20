@@ -39,6 +39,13 @@
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=fff&style=for-the-badge)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=fff&style=for-the-badge)
 
+### ⚙️ DevOps / Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=fff&style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-3C873A?logo=githubactions&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+
+
 ---
 
 
