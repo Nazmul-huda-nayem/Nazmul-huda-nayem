@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Nazmul Huda  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&pause=1000&center=true&vCenter=true&width=900&height=80&lines=WordPress+Plugin+Developer;Gutenberg+Block+Developer;Next.js+%26+Headless+WordPress;Full+Stack+Web+Developer&font=Fira+Code&weight=700&color=000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&duration=4000&pause=1000&center=true&vCenter=true&width=900&height=80&lines=WordPress+Plugin+Developer;Gutenberg+Block+Developer;Next.js+%26+Headless+WordPress;Full+Stack+Web+Developer&font=Fira+Code&weight=700&color=5da9ff)](https://git.io/typing-svg)
 
 
 ---
