@@ -11,7 +11,7 @@
 - 🔭 Working on **Custom WordPress Plugins** & **Advanced Gutenberg Blocks**  
 - 🌱 Learning **Next.js**, **GraphQL**, **Headless CMS**  
 - 💡 Sharing knowledge through open-source projects  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nazmul-huda-wp/) | [Email](mailto:thankyounayem1@gmail.com)  
 
 ---
 
@@ -40,19 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Nazmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmulhuda&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhuda&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nazmulhuda&theme=highcontrast&hide_border=true)
-
----
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/nazmulhuda/nazmulhuda/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🚀 Featured Projects
 🔹 [Custom WooCommerce Plugin](https://github.com/nazmulhuda/woocommerce-plugin)  
@@ -61,10 +48,6 @@
 
 ---
 
-## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-000?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%8C%90-228B22?style=for-the-badge)](https://yourportfolio.com)  
 
 ---
 
