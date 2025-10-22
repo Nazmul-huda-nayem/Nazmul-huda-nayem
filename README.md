@@ -49,10 +49,6 @@
 ---
 
 
-## 🚀 Featured Projects
-🔹 [Custom WooCommerce Plugin](https://github.com/nazmulhuda/woocommerce-plugin)  
-🔹 [Elementor Addons Pack](https://github.com/nazmulhuda/elementor-addons)  
-🔹 [Headless WordPress with Next.js](https://github.com/nazmulhuda/headless-nextjs-wp)  
 
 ---
 
